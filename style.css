@@ -1,0 +1,49 @@
+.main_div{
+    background-color: rgb(6, 190, 181);
+    text-align: center;
+    height: 500px;
+    color: white;
+}
+.image_1{
+    position: relative;
+    height: 220px;
+    text-align: center;
+    
+}
+div h1{
+    text-align: center;
+}
+div h1{
+    font-size: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+div h4{
+    background-color: rgb(6, 190, 181);
+    width: 1499px;
+    height: 600px;
+    text-align: center;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     color: white;
+font-size: 25px;
+}
+div h5{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+    color: rgb(23, 23, 77);
+}
+div h6{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+
+}
+div h2{
+    background-color:rgb(23, 23, 77);
+    color: white;
+    height: 350px;
+}
+div p{
+    
+    text-align: center;
+}
